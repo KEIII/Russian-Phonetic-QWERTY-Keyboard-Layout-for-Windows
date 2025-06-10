@@ -1,3 +1,6 @@
+![base](base.png)
+![shift](shift.png)
+
 ## Step 1: Install Microsoft Keyboard Layout Creator (MSKLC)
 - Download MSKLC from the official Microsoft website
 - Run the installer (setup.exe) and follow the on-screen instructions
